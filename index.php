@@ -1,5 +1,5 @@
 <?php include 'koneksi.php';?>
-#Ardi Kurniawan
+//Ardi Kurniawan
 
 <html>
 <html lang="en">
